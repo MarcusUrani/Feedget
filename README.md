@@ -17,10 +17,33 @@ Repositório do back-end do projeto disponível [aqui](https://github.com/feedge
 
 - Axios
 
-## Etapas do desenvolvimento
+## ✅ Etapas do desenvolvimento
 
 - Instalação das depedencias do projeto.
 
 - Organização das pastas para iniciar o desenvolvimento.
 
-- Criação do layout e funcionalidades da página com base no modelo disponibilizado, disponível [aqui](<https://www.figma.com/file/lRjJxLX9ezYaqh2wCgskzJ/Feedback-Widget-(Community)?node-id=100%3A2114>).
+- Criação do layout da página com base no modelo disponibilizado, disponível [aqui](<https://www.figma.com/file/lRjJxLX9ezYaqh2wCgskzJ/Feedback-Widget-(Community)?node-id=100%3A2114>).
+
+- Implementação das funcionalidades dos componentes.
+
+- Integração com o backend para envio dos feedbacks.
+
+## 👨🏻‍💻 Como usar?
+
+- Acesse a página do projeto, disponível no [link](https://feedget-orcin.vercel.app).
+
+- Clique no ícone no canto inferior direito para abrir o menu de feedback.
+
+- Selecione o tipo de feedback que deseja enviar.
+
+- Digite o feedback e caso queira, envie um print da tela clicando no ícone de câmera ao lado do botão de envio, feito isso, clique em enviar.
+
+- O feedback será enviado para o backend e um email será recebido pelo administrador com todos os dados preenchidos.
+
+## 🙋🏻‍♂️ Autor
+
+- Marcus Vinícius Gomes Urani
+- [Portfólio](https://marcusurani.netlify.app)
+- <a href="https://www.linkedin.com/in/marcus-urani" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+- <a href = "mailto:marcus.urani20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
